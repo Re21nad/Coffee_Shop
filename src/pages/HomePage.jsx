@@ -2,6 +2,9 @@ import React, { useState } from 'react';
 import Header from '../components/Header';
 import OurStory from '../components/OurStory';
 import OurProducts from '../components/OurProducts';
+import Booking from '../components/Booking';
+import OurCustomers from '../components/OurCustomers';
+
 
 function HomePage() {
   const headerStyle = {
@@ -64,6 +67,8 @@ function HomePage() {
         </header>
         <OurStory />
         <OurProducts />
+        <Booking />
+        <OurCustomers />
       
     </div>
   );

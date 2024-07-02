@@ -10,7 +10,7 @@ export default function OurStory() {
     };
   
     const textContainer = {
-      margin: '0 10px', 
+      // margin: '0 10px', 
       color: 'white',
       fontSize: '20px',
       fontFamily: 'Time',

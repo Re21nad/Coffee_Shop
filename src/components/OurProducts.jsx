@@ -4,7 +4,7 @@ import Products from "./Products";
 export default function OurProducts(){
  
     const main = {
-        height: '60vh',
+        height: '80vh',
         width: '100%',
     };
 

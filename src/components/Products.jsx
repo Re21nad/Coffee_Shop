@@ -11,7 +11,7 @@ export default function Products(){
     const imageContainer = {
         backgroundColor: 'lightgray',
         padding: '50px 20px',
-        margin: '0 30px',
+        // margin: '0 30px',
         borderRadius:'30px'
     };
 
