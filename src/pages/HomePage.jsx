@@ -4,6 +4,7 @@ import OurStory from '../components/OurStory';
 import OurProducts from '../components/OurProducts';
 import Booking from '../components/Booking';
 import OurCustomers from '../components/OurCustomers';
+import OurNews from '../components/OurNews';
 
 
 function HomePage() {
@@ -69,6 +70,7 @@ function HomePage() {
         <OurProducts />
         <Booking />
         <OurCustomers />
+        <OurNews />
       
     </div>
   );
