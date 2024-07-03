@@ -5,6 +5,8 @@ import OurProducts from '../components/OurProducts';
 import Booking from '../components/Booking';
 import OurCustomers from '../components/OurCustomers';
 import OurNews from '../components/OurNews';
+import Newsletter from '../components/Newsletter';
+import Footer from '../components/Footer';
 
 
 function HomePage() {
@@ -71,6 +73,8 @@ function HomePage() {
         <Booking />
         <OurCustomers />
         <OurNews />
+        <Newsletter />
+        <Footer />
       
     </div>
   );
